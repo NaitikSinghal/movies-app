@@ -17,7 +17,7 @@ Before getting started, ensure you have the following installed:
 
 Clone the repository using Git:
 
-$ git clone https://github.com/your-username/movies-app.git
+$ git clone https://github.com/NaitikSinghal/movies-app.git
 
 
 ## Setup
